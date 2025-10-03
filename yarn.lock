@@ -3345,9 +3345,10 @@ gulp-babel@^7.0.0:
     through2 "^2.0.0"
     vinyl-sourcemaps-apply "^0.2.0"
 
-gulp-inject@^5.0.0:
+gulp-inject@5.0.2:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/gulp-inject/-/gulp-inject-5.0.2.tgz#0942a401ae2b1969c3a52b90a13635d28e79f20b"
+  integrity sha512-85cHSUsga8SYNUBfw2ae3utZAaTSZ9rRVw/bjjx4QagmnSAgFEXnWnF25AolCoNvDC45Rjc27LjuVeUVbZLhYg==
   dependencies:
     ansi-colors "^3.2.1"
     arrify "^1.0.1"
@@ -3369,16 +3370,18 @@ gulp-postcss@^8.0.0:
     postcss-load-config "^2.0.0"
     vinyl-sourcemaps-apply "^0.2.1"
 
-gulp-svgmin@^1.2.3:
+gulp-svgmin@1.2.4:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/gulp-svgmin/-/gulp-svgmin-1.2.4.tgz#a4aa9e2615cf1105ef555aea86e86296cc20e273"
+  integrity sha512-h+bpP6+ZNB1us8m5VFCKrR/LPc8B47LfJ+dIg4FBvwV6uVeD2GFKkQnPQscax0iFRRX47irCguVrsjMnOpcjAA==
   dependencies:
     gulp-util "^3.0.4"
     svgo "^0.7.0"
 
-gulp-svgstore@^6.1.0:
+gulp-svgstore@6.1.1:
   version "6.1.1"
   resolved "https://registry.yarnpkg.com/gulp-svgstore/-/gulp-svgstore-6.1.1.tgz#7fa8af005c23bb0338f9f365a6010c86651f13d0"
+  integrity sha512-Z5NR5BYPKQZnGf+UhL0pdPGM6YdT4tY/b2nDv/8sNK0Xu9OGuZTkp9f7YCza8/oErVuu6TbTQw36ztqvllV3SQ==
   dependencies:
     cheerio "0.*"
     fancy-log "^1.3.2"
@@ -8191,9 +8194,10 @@ svg-baker@^1.2.17, svg-baker@^1.4.0:
     query-string "^4.3.2"
     traverse "^0.6.6"
 
-svg-sprite-loader@^3.0.0:
+svg-sprite-loader@3.9.2:
   version "3.9.2"
   resolved "https://registry.yarnpkg.com/svg-sprite-loader/-/svg-sprite-loader-3.9.2.tgz#9208e58855504767a4cfc66f7fec8acf10b56a37"
+  integrity sha512-tnL7qj5ArgSYjXePzx+pZpDDzz2rMhjYdzaTjiuBz6nbPPgf2uOvO8mWj8wf/0Iv6Szd406fUYMDIyT3XnwEww==
   dependencies:
     bluebird "^3.5.0"
     deepmerge "1.3.2"
